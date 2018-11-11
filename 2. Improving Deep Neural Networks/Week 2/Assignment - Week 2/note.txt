@@ -1,0 +1,3 @@
+there is issue with the function plot_decision_boundary in the file opt_utils.py while running it in local. Otherwise things are fine.
+
+I think this is mostly because on coursera the the numpy version is '1.11.3' while on my laptop the version is '1.15.2'
